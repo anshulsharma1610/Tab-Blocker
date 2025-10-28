@@ -54,7 +54,7 @@ Click the extension icon once to block the current site from opening new tabs, c
 This extension does **not collect, store, or transmit any personal data.**  
 All data stays local to your browser and synced securely using Chrome’s built-in APIs.  
 
-🔗 **Privacy Policy:** [View here]()
+🔗 **Privacy Policy:** [View here](https://anshulsharma1610.github.io/Tab-Blocker/privacypolicy.html)
 
 ---
 
