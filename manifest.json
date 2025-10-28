@@ -7,7 +7,7 @@
     "tabs",
     "storage",
     "webNavigation",
-    "scripting"
+    "activeTab"
   ],
   "background": {
     "service_worker": "background.js"
@@ -16,7 +16,6 @@
     "default_title": "Block this site from opening new tabs"
   },
   "options_page": "options.html",
-  "host_permissions": ["<all_urls>"],
   "icons": {
     "128": "block.png"
   }
